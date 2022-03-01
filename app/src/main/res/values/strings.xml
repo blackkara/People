@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChallengeScorp</string>
+    <string name="no_person_found">No person found!</string>
+    <string name="tap_to_refresh">Tap to refresh</string>
+    <string name="something_went_wrong">Something went wrong while loading people!</string>
+    <string name="refresh">Refresh</string>
+</resources>
